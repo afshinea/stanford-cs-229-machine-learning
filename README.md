@@ -21,4 +21,4 @@ This repository aims at summing up in the same place all the important notions t
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229.html), so that you can enjoy reading it from any device.
 
 ## Authors
-Afshine Amidi (Ecole Centrale Paris, MIT) and Shervine Amidi (Ecole Centrale Paris, Stanford University)
+[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)

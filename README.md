@@ -20,5 +20,8 @@ This repository aims at summing up in the same place all the important notions t
 ## Website
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229.html), so that you can enjoy reading it from any device.
 
+## Translation
+Would you like to see these cheatsheets in your native language? You can help us translating them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!
+
 ## Authors
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)

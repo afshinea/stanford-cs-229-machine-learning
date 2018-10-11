@@ -1,6 +1,6 @@
 # Machine Learning cheatsheets for Stanford's CS 229
 
-Available in [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr)
+Available in [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://stanford.edu/~shervine/l/fa/teaching/cs-229/cheatsheet-supervised-learning) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [中文](https://stanford.edu/~shervine/l/zh/teaching/cs-229/cheatsheet-supervised-learning)
 
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 229 Machine Learning course, and include:

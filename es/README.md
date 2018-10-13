@@ -1,6 +1,6 @@
 # Hojas de referencia de Machine Learning (CS 229 Stanford)
 
-## Content
+## Contenido
 #### Hojas de referencia VIP
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/es/hoja-referencia-aprendizaje-supervisado.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/es/hoja-referencia-aprendizaje-no-supervisado.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/es/hoja-referencia-aprendizaje-profundo.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/es/hoja-referencia-aprendizaje-automatico-consejos-trucos.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png" alt="Illustration" width="220px"/></a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Aprendizaje supervisado &nbsp; &nbsp; &nbsp; &nbsp; Aprendizaje no supervisado &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Aprendizaje profundo &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consejos y trucos
@@ -15,4 +15,4 @@
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) y [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
 
 ## Traductores
-Fernando Diaz, Juan P. Chavat, Erick Gabriel Mendoza Flores, Fernando González- Herrera, Mariano Ramirez, Alonso Melgar López, Gustavo Velasco-Hernández, David Jiménez Paredes, Fermin Ordaz, Jaime Noel Alvarez Luna y Juan Manuel Nava Zamudio.
+Fernando Diaz, Juan P. Chavat, Erick Gabriel Mendoza Flores, Fernando González- Herrera, Mariano Ramirez, Alonso Melgar López, Gustavo Velasco-Hernández, David Jiménez Paredes, Fermin Ordaz, Jaime Noel Alvarez Luna y Juan Manuel Nava Zamudio.

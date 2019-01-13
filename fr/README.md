@@ -20,7 +20,7 @@ Ce repo a pour but de résumer toutes les notions importantes du cours de Machin
 <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fr/super-pense-bete-machine-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet.png" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tous les concepts rassemblés à un seul endroit
 
 ## Site
-Les fiches sont aussi disponibles sur un [site dedié](https://stanford.edu/~shervine/teaching/cs-229.html), de manière à ce que vous puissiez les parcourir à partir de n'importe quel appareil.
+Les fiches sont aussi disponibles sur un [site dedié](https://stanford.edu/~shervine/l/fr/teaching/cs-229), de manière à ce que vous puissiez les parcourir à partir de n'importe quel appareil.
 
 ## Auteurs
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) et [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)

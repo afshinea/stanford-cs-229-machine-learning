@@ -13,4 +13,4 @@
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) 和 [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
 
 ## 译者
-Wang Hongnian, Xiaohu Zhu, Chaoying Xue
+Wang Hongnian, [Xiaohu Zhu](https://xiaohuzhu.xyz), Chaoying Xue

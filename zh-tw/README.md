@@ -16,4 +16,4 @@
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) 和 [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
 
 ## 譯者
-kevingo, TobyOoO, kentropy, 詹志傑, imironhead, 徐承漢 和 Miyaya.
+kevingo, TobyOoO, kentropy, 詹志傑, imironhead, 徐承漢 和 Miyaya

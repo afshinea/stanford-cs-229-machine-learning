@@ -12,20 +12,20 @@
 
 ## محتوى
 #### دليل قصير خاص
-|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/cheatsheet-supervised-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-001.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/cheatsheet-unsupervised-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-002.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-003.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-004.png?" alt="Illustration" width="220px"/></a>|
+|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/cheatsheet-supervised-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-001.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/cheatsheet-unsupervised-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-002.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-003.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-004.png?" alt="Illustration" width="220px"/></a>|
 |:--:|:--:|:--:|:--:|
 |تعلم مراقب|تعلم غير مراقب|تعلم متعمق|لنصائح وحيل تعلّم الآلة
 
 
 
 #### تذكير خاص
-|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-005.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-006.png" alt="Illustration" width="220px"/></a>|
+|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-005.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-006.png" alt="Illustration" width="220px"/></a>|
 |:--:|:--:|
 |للاحتمالات والإحصاء|الجبر الخطي و التفاضل و التكامل
 
 
 #### دليل قصير خاص جدا
-|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-007.png" alt="Illustration" width="400px"/></a>|
+|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/ar/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-007.png" alt="Illustration" width="400px"/></a>|
 |:--:|
 |مثل في مكان واحد
 

@@ -21,7 +21,7 @@
 #### تذكير خاص
 |<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-005.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/fa/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/fa-006.png" alt="Illustration" width="220px"/></a>|
 |:--:|:--:|
-|الاحصائيات والاحتمالات|الجبر الخطي والآلات الحاسبة
+|للاحتمالات والإحصاء|الجبر الخطي و التفاضل و التكامل
 
 
 #### دليل قصير خاص جدا

@@ -14,7 +14,7 @@ Có sẵn bằng [العربية](https://github.com/afshinea/stanford-cs-229-ma
 |Xác suất và Thống kê cơ bản|Đại số tuyến tính và Giải tích cơ bản|
 
 
-#### Super VIP cheatsheets
+#### Super VIP cheatsheet
 |<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/vi/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/vi-007.png" alt="Illustration" width="400px"/></a>|
 |---|
 

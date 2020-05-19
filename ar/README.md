@@ -1,12 +1,12 @@
 <span dir="rtl" align="right">
 
-# أدلة تعلم الآلة القصيرة لـ CS ۲۲۹ 
+# أدلة تعلم الآلة القصيرة لـ CS ۲۲۹
 
 متوفر في
 
 </span>
 
-**العربية** -  [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [Türkçe](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/tr) -  [简中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh) -  [繁中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh-tw)
+**العربية** -  [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [Türkçe](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/tr) - [Tiếng Việt](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/vi) -  [简中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh) -  [繁中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh-tw)
 
 <span dir="rtl" align="right">
 
@@ -38,4 +38,3 @@
 زيد اليافعي، فارس القنيعير، أمجد الخطابي، مازن مليباري، محمود أصلان، رضوان لغوينسات، امجد الخطابي
 
 </span>
-
